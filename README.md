@@ -8,13 +8,17 @@ As séries temporais são comumente usadas em diversas áreas, como finanças, e
 
 A análise de séries temporais envolve a aplicação de técnicas estatísticas e matemáticas para identificar padrões, detectar sazonalidades, avaliar a presença de tendências e fazer previsões futuras com base em dados históricos.
 
-imagem
+<p align="center">
+  <img src= "temp.png"width=60% >
+</p>
 
 Nosso dataset é bastante simples e relaciona o histórico de produção de eletricidade nos Estados Unidos em um intervalo de datas entre 1985 e 2018. Escolhemos esse dataset para fins de estudo de times series, por se tratar de um conjunto bastante simples, com apenas duas features.
 
 # Séries Temporais - Prophet
 
-imagem
+<p align="center">
+  <img src= "prophet.png"width=70% >
+</p>
 
 Prophet é uma biblioteca de previsão de séries temporais desenvolvida pelo Facebook. Ele permite aos usuários modelar tendências sazonais e de longo prazo, bem como eventos e feriados específicos que podem afetar as séries temporais.
 
