@@ -12,7 +12,6 @@ A análise de séries temporais envolve a aplicação de técnicas estatísticas
   <img src= "temp.png"width=60% >
 </p>
 
-Nosso dataset é bastante simples e relaciona o histórico de produção de eletricidade nos Estados Unidos em um intervalo de datas entre 1985 e 2018. Escolhemos esse dataset para fins de estudo de times series, por se tratar de um conjunto bastante simples, com apenas duas features.
 
 # Séries Temporais - Prophet
 
@@ -23,3 +22,14 @@ Nosso dataset é bastante simples e relaciona o histórico de produção de elet
 Prophet é uma biblioteca de previsão de séries temporais desenvolvida pelo Facebook. Ele permite aos usuários modelar tendências sazonais e de longo prazo, bem como eventos e feriados específicos que podem afetar as séries temporais.
 
 O Prophet é bastante robusto, simples e fácil de usar. É possível encontrar na internet exemplos de código utilizando o Prophet sem nem se preoucupar se a Série Temporal é estacionária. Em alguns casos o resultado é bom, mas nem sempre.
+
+# Projetos
+
+Apresentamos neste portfólio 3 projetos que abordam algumas técnicas de análise de times series, forecasting e prophet:
+
+* **[Séries temporais (Time Series)](https://github.com/joaomarcelofc/Data_Science_Time_Series/blob/main/S%C3%A9ries_Temporais_(Time_Series)_JM.ipynb)**
+
+* **[Time Series e Prophet](https://github.com/joaomarcelofc/Data_Science_Time_Series/blob/main/Times_Series_Prophet_JM.ipynb)**
+
+* **[Forecasting com Time Series](https://github.com/joaomarcelofc/Data_Science_Time_Series/blob/main/Forecasting_Series_Temporais_Prophet_JM.ipynb)**
+
